@@ -5,6 +5,8 @@ I'm a mid-level Mobile Developer looking to branch out into full-stack developme
 - Kotlin
 - GoLang
 - ReactNative
+- Flutter
+- Dart
 - TypeScsript
 - Ruby
 - Python
