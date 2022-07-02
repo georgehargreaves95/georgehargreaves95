@@ -1,4 +1,4 @@
-### Hi, I’m @georgehargreaves95 👋
+### Hi, I’m George 👋
 I'm a mid-level Mobile Developer looking to branch out into full-stack development and stack architecture, and step up the management chain.
 
 ### I’m interested in...
