@@ -1,5 +1,5 @@
 ### Hi, I’m George 👋
-I'm a Senior ReactNative looking to branch out into Full-Stack engineering, stack architecture, and step up the management chain.
+I'm a Senior ReactNative Developer working to branch out into Full-Stack engineering, stack architecture, and step up the management chain.
 
 ### I’m interested in...
 - Kotlin
